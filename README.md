@@ -1,4 +1,6 @@
-Introduction to TypeScript
+ç2Introduction to TypeScript:
+
+
 TypeScript is an open-source programming language developed and maintained by Microsoft. It's a superset of JavaScript, which means any valid JavaScript code is also valid TypeScript code. However, TypeScript adds static typing capabilities to JavaScript, allowing for more robust code, early error detection, and enhanced developer productivity. TypeScript is designed for the development of large applications and transcompiles to JavaScript, making it compatible with any browser, host, or operating system.
 
 The Need for TypeScript
